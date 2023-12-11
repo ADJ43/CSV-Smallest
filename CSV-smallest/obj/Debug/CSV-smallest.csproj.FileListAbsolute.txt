@@ -1,0 +1,7 @@
+C:\Users\adjse\source\repos\CSV-smallest\CSV-smallest\bin\Debug\CSV-smallest.exe.config
+C:\Users\adjse\source\repos\CSV-smallest\CSV-smallest\bin\Debug\CSV-smallest.exe
+C:\Users\adjse\source\repos\CSV-smallest\CSV-smallest\bin\Debug\CSV-smallest.pdb
+C:\Users\adjse\source\repos\CSV-smallest\CSV-smallest\obj\Debug\CSV-smallest.csproj.AssemblyReference.cache
+C:\Users\adjse\source\repos\CSV-smallest\CSV-smallest\obj\Debug\CSV-smallest.csproj.CoreCompileInputs.cache
+C:\Users\adjse\source\repos\CSV-smallest\CSV-smallest\obj\Debug\CSV-smallest.exe
+C:\Users\adjse\source\repos\CSV-smallest\CSV-smallest\obj\Debug\CSV-smallest.pdb
